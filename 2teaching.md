@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
+title: Teaching
+permalink: /2teaching/
 ---
 
 Under Construction!
