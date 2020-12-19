@@ -1,7 +1,7 @@
-
 ---
 layout: page
 title: Courses
-permalink: /Courses/
+permalink: /courses/
 ---
 
+Salam!
