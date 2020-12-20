@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Amir
 middle_name: 
-last_name: Tabatabai
+last_name: Akbar Tabatabai
 email: amir.akbar@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -52,7 +52,7 @@ blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  You can reach me by mail.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -60,8 +60,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: My Blog  # your blog must have a name for it to show up in the nav bar
+blog_description: My Blog. Under Construction...
 permalink: /blog/:year/:title/
 
 # Pagination
