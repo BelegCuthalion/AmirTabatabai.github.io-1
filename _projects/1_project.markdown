@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mathematical Structuralism a la Grothendieck
-description: aaa
+description: A course on synthetic mathematics.
 img: /assets/img/Grothendieck.jpg
 importance: 1
 ---

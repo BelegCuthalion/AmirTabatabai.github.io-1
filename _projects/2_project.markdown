@@ -1,8 +1,9 @@
 ---
 layout: page
 title: In Pursuit of Space
-description: a project with a background image
-img: /assets/img/3.jpg
+description: A book project on the generalised notions of space
+img: /assets/img/grr.jpg
 importance: 2
 ---
 
+To be completed...
