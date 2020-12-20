@@ -12,8 +12,8 @@ They can be found in the [Youtube channel](https://www.youtube.com/channel/UCSHE
 
 #### Lecture Notes:
 
-[Session 01]() \\
-[Session 02]() \\
-[Session 03]() \\
+[Session 01]()  
+[Session 02](/assets/pdf/02.pdf)     
+[Session 03](/assets/pdf/03.pdf)      
 [Session 04]() 
  

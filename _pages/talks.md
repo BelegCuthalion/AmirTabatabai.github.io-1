@@ -12,15 +12,15 @@ nav: true
 
 ***
 
-* On the Logical Shadow of the Explicit Constructions, Oberwolfach workshop, Mathematical Logic: Proof Theory, Constructive Mathematics, November 2020. [Slides]()
+* _On the Logical Shadow of the Explicit Constructions_, Oberwolfach workshop, Mathematical Logic: Proof Theory, Constructive Mathematics, November 2020. [Slides](/assets/pdf/On the Logical Shadow of the Explicit Constructions)
 
-* Intuitionistic Implications: On the Logics of Spacetime, Second World Logic Day, January 2020. [Slides]()
+* _Intuitionistic Implications: On the Logics of Spacetime_, Second World Logic Day, January 2020. [Slides](/assets/pdf/Intuitionistic Implications, On the Logics of Spacetime.pdf)
 
-* Stones for Bread: A Classical Reading of Intuitionism, Annual Symposium of Iranian Association for Logic, 2020. [Slides]()
+* _Stones for Bread: A Classical Reading of Intuitionism_, Annual Symposium of Iranian Association for Logic, 2020. [Slides](/assets/pdf/Stones for Bread, A Classical Reading of Intuitionism.pdf)
 
-* On the Existence of the Sequent-style Proof Systems, Workshop on Admissible Rule and Unification III, Prague, May 2019. [Slides]()
+* _On the Existence of the Sequent-style Proof Systems_, Workshop on Admissible Rule and Unification III, Prague, May 2019. [Slides](/assets/pdf/On the Existence of the Sequent-style Proof Systems.pdf)
 
-* General Proof Theory, First Annual Symposium of Iranian Association for Logic, Tehran, Iran, May 2013. [Slides]()
+* _Computational Flows in Arithmetic_, Workshop on Bounded Arithmetic, Prague, November 2017. [Slides](/assets/pdf/)
 
 ***
 
@@ -28,14 +28,22 @@ nav: true
 
 ***
 
-* The BHK Interpretation:  looking through G\"{o}del's classical lens, Logic Colloquium 2019.
+* _The BHK Interpretation:  looking through Godel's classical lens_, Logic Colloquium 2019. [Slides](/assets/pdf/The BHK Interpretation.pdf)
 
-* Witnessing Games in Generalized Bounded Arithmetic, LCC 2019.
+* _Witnessing Games in Generalized Bounded Arithmetic_, LCC 2019.  [Slides](/assets/pdf/Witnessing Games in Generalized Bounded Arithmetic.pdf)
 
-* Predicative Implications: A Topological Approach, TACL 2019.
+* _Predicative Implications: A Topological Approach_, TACL 2019. [Slides](/assets/pdf/Predicative Implications.pdf)
 
-* Proof Mining in Bounded Arithmetic, The Proof, Computation and Complexity workshop, Types, Sets and Constructions, Trimester Program, Hausdorff Research Institute for Mathematics, Bonn, July 2018.
+* _Proof Mining in Bounded Arithmetic_, The Proof, Computation and Complexity workshop, Types, Sets and Constructions, Trimester Program, Hausdorff Research Institute for Mathematics, Bonn, July 2018. [Slides](/assets/pdf/Proof Mining in Bounded Arithmetic.pdf)
 
-* Mining the Surface: Proof Mining in the Bounded World, The Proofs and Computation workshop, Types, Sets and Constructions, Trimester Program, Hausdorff Research Institute for Mathematics, Bonn, July 2018.
+* _Mining the Surface: Proof Mining in the Bounded World_, The Proofs and Computation workshop, Types, Sets and Constructions, Trimester Program, Hausdorff Research Institute for Mathematics, Bonn, July 2018. [Slides](/assets/pdf/Mining the surface.pdf)  
 
-* Computational Flows in Arithmetic, Workshop on Bounded Arithmetic, Prague, November 2017.
+* _General Proof Theory_, First Annual Symposium of Iranian Association for Logic, Tehran, Iran, May 2013.  
+
+***
+
+#### Some Seminar Talks 
+
+***
+
+
