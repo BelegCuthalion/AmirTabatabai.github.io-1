@@ -1,10 +1,15 @@
 ---
 layout: page
-title: Projects
+title: Research
 permalink: /projects/
 description:
 nav: true
 ---
+
+> _The few people who have a wide enough background and perspective enabling them to feel the main questions, are devoting their energies to things which seem more directly rewarding. Maybe
+even a wind of disrepute for any foundational matters whatever is blowing nowadays._   
+
+Pursuing Stacks, Alexander Grothendieck
 
 <div class="projects grid">
 

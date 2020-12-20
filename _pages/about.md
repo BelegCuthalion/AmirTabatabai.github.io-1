@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.uu.nl/en/organisation/department-of-philosophy-and-religious-studies">Department of Philosophy, Utrecht University</a> 
+description: <a href="https://www.uu.nl/en/organisation/department-of-philosophy-and-religious-studies">Department of Philosophy, Utrecht University, the Netherlands</a> 
 
 profile:
   align: right
@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Bio!
+I am a mathematician interested in philosophy, physics and theoretical computer science.
