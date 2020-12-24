@@ -12,7 +12,7 @@ nav: true
 
 ***
 
-* _On the Logical Shadow of the Explicit Constructions_, Oberwolfach workshop, Mathematical Logic: Proof Theory, Constructive Mathematics, November 2020. [Slides](/assets/pdf/On the Logical Shadow of the Explicit Constructions)
+* _On the Logical Shadow of the Explicit Constructions_, Oberwolfach workshop, Mathematical Logic: Proof Theory, Constructive Mathematics, November 2020. [Slides](/assets/pdf/On the Logical Shadow of the Explicit Constructions.pdf)
 
 * _Intuitionistic Implications: On the Logics of Spacetime_, Second World Logic Day, January 2020. [Slides](/assets/pdf/Intuitionistic Implications, On the Logics of Spacetime.pdf)
 
