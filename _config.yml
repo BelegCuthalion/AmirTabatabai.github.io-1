@@ -40,7 +40,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: # your GitHub user name
-twitter_username: # your Twitter handle
+twitter_username: # @AAkbartabatabai
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -52,7 +52,7 @@ blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
 contact_note: >
-  You can reach me by mail.
+  You can reach me by Email.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -61,7 +61,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 
 blog_name: My Blog  # your blog must have a name for it to show up in the nav bar
-blog_description: My Blog. Under Construction...
+blog_description: Under Construction...
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -126,7 +126,7 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
+  last_name: Akbar Tabatabai
 
   style: apa
   locale: en
