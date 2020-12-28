@@ -20,7 +20,7 @@ nav: true
 
 * _On the Existence of the Sequent-style Proof Systems_, Workshop on Admissible Rule and Unification III, Prague, May 2019. [Slides](/assets/pdf/On the Existence of the Sequent-style Proof Systems.pdf)
 
-* _Computational Flows in Arithmetic_, Workshop on Bounded Arithmetic, Prague, November 2017. [Slides](/assets/pdf/)
+* _Computational Flows in Arithmetic_, Workshop on Bounded Arithmetic, Prague, November 2017. [Slides](/assets/pdf/Computational Flows in Arithmetic, Prague Workshop on Bounded Arithmetic.pdf)
 
 ***
 
@@ -45,6 +45,8 @@ nav: true
 #### Some Seminar Talks 
 
 ***
+
+* _Intuitionistic Implications: On the Logics of Spacetime_, 2020. [Slides](/assets/pdf/ISP.pdf)  
 
 * _Steenen voor Brood: A Classical Interpretation of the Intuitionistic Logic_, TULIPS, Utrecht University, 2019.
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mathematical Structuralism a la Grothendieck
+
 description:
 img: /assets/img/Grothendieck.jpg
 importance: 1
