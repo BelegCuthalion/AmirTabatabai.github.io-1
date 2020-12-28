@@ -126,6 +126,8 @@ plugins:
 
 scholar:
 
+  type_names: { article: Journal, unpublished: Manuscript, incollection: Book Contribution}
+
   last_name: Akbar Tabatabai
 
   style: apa

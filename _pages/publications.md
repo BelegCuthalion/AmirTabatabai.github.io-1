@@ -9,8 +9,6 @@ nav: true
 
 <div class="publications">
 
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography --group_by type -f papers -q @*[year={{y}}]* %}{% endfor %}
+{% bibliography --group_by type -f papers --type_names { article: Papers } %}
 
 </div>
