@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: <a href="https://www.uu.nl/en/organisation/department-of-philosophy-and-religious-studies">Department of Philosophy, Utrecht University, the Netherlands</a> 
 

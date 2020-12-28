@@ -58,5 +58,11 @@ nav: true
 
 * _Feasible Interpolation for Frege and Extended Frege_, Steklov Institute of Mathematics, Saint Petersburg, June 2016. 
 
+* _An Introduction to Bounded Arithmetic_, Charles University, Prague, November 2015.
+
+* _Disjoint NP Pairs and Propositional Proof Complexity_, Logic Seminar, Institute of 
+Mathematics, Academy of Sciences, Prague, June 2015.
+
+* _Constructive Feasible Arithmetic, Institute of Mathematics_, Academy of Sciences, Prague, June 2014.
 
 

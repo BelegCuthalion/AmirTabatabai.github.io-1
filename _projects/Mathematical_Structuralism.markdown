@@ -6,7 +6,7 @@ img: /assets/img/Grothendieck.jpg
 importance: 1
 ---
 
-This is a course covering some parts of modern mathematics in a synthetic structural manner. It starts with category theory to address point-free topology and its higher-order version namely the topos theory to reach synthetic functorial geometry and abstract homotopy theory. 
+This is a course aiming at all mathematics and computer science students, covering some parts of modern mathematics from a logical, synthetic structural point of view. It starts with some category theory as the language of mathematical structuralism. Then, it moves to point-free topology and its higher-order versions, Grothendieck toposes and higher toposes to finally reach synthetic functorial geometry and abstract homotopy theory.
 
 #### Recordings:
 
