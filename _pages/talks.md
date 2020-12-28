@@ -46,4 +46,17 @@ nav: true
 
 ***
 
+* _Steenen voor Brood: A Classical Interpretation of the Intuitionistic Logic_, TULIPS, Utrecht University, 2019.
+
+* _Predicative Exponentials: A Topological Approach_, Types, Sets and Constructions Trimester Program, Hausdorff Research Institute for Mathematics, Bonn, July 2018.
+
+* _The BHK interpretation: looking through Godel's classical lens_, Types, Sets and Constructions Trimester Program, Hausdorff Research Institute for Mathematics, Bonn, May 2018.
+
+* _Computational Flows in Arithmetic_, Swansea University, UK, November 2017.
+	
+* _Geometric Modality and Weak Exponentials_, University of Nottingham, November 2017.
+
+* _Feasible Interpolation for Frege and Extended Frege_, Steklov Institute of Mathematics, Saint Petersburg, June 2016. 
+
+
 

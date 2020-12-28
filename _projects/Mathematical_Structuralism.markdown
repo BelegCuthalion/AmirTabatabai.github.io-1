@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Mathematical Structuralism a la Grothendieck
-description: A course on synthetic mathematics.
+description:
 img: /assets/img/Grothendieck.jpg
 importance: 1
 ---
+
+This is a course covering some parts of modern mathematics in a synthetic structural manner. It starts with category theory to address point-free topology and its higher-order version namely the topos theory to reach synthetic functorial geometry and abstract homotopy theory. 
 
 #### Recordings:
 
