@@ -126,7 +126,7 @@ plugins:
 
 scholar:
 
-  type_names: { article: Journal, unpublished: Manuscript, incollection: Book Contribution}
+  type_names: { article: Journal, unpublished: Manuscript}
 
   last_name: Akbar Tabatabai
 
@@ -134,7 +134,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: papers.bib, books.bib
   bibliography_template: bib
 
   replace_strings: true
